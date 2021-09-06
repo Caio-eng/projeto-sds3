@@ -1,8 +1,8 @@
 const NavBar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <div className="container-fluid">
-                <a className="navbar-brand" href="#">Controle de Vendas</a>
+            <div className="container">
+                <h3>Controle de Vendas</h3>
             </div>
         </nav>
 
